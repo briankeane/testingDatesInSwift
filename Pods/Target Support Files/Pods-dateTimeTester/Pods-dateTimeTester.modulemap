@@ -1,0 +1,6 @@
+framework module Pods_dateTimeTester {
+  umbrella header "Pods-dateTimeTester-umbrella.h"
+
+  export *
+  module * { export * }
+}
